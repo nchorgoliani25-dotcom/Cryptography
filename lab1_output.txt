@@ -1,0 +1,56 @@
+Caesar Cipher Brute-force results:
+Shift 1: Gur Dhvpx Oebja Sbk Whzcf Bire Gur Ynml Qbt.
+Shift 2: Ftq Cguow Ndaiz Raj Vgybe Ahqd Ftq Xmlk Pas.
+Shift 3: Esp Bftnv Mczhy Qzi Ufxad Zgpc Esp Wlkj Ozr.
+Shift 4: Dro Aesmu Lbygx Pyh Tewzc Yfob Dro Vkji Nyq.
+Shift 5: Cqn Zdrlt Kaxfw Oxg Sdvyb Xena Cqn Ujih Mxp.
+Shift 6: Bpm Ycqks Jzwev Nwf Rcuxa Wdmz Bpm Tihg Lwo.
+Shift 7: Aol Xbpjr Iyvdu Mve Qbtwz Vcly Aol Shgf Kvn.
+Shift 8: Znk Waoiq Hxuct Lud Pasvy Ubkx Znk Rgfe Jum.
+Shift 9: Ymj Vznhp Gwtbs Ktc Ozrux Tajw Ymj Qfed Itl.
+Shift 10: Xli Uymgo Fvsar Jsb Nyqtw Sziv Xli Pedc Hsk.
+Shift 11: Wkh Txlfn Eurzq Ira Mxpsv Ryhu Wkh Odcb Grj.
+Shift 12: Vjg Swkem Dtqyp Hqz Lworu Qxgt Vjg Ncba Fqi.
+Shift 13: Uif Rvjdl Cspxo Gpy Kvnqt Pwfs Uif Mbaz Eph.
+Shift 14: The Quick Brown Fox Jumps Over The Lazy Dog.
+Shift 15: Sgd Pthbj Aqnvm Enw Itlor Nudq Sgd Kzyx Cnf.
+Shift 16: Rfc Osgai Zpmul Dmv Hsknq Mtcp Rfc Jyxw Bme.
+Shift 17: Qeb Nrfzh Yoltk Clu Grjmp Lsbo Qeb Ixwv Ald.
+Shift 18: Pda Mqeyg Xnksj Bkt Fqilo Kran Pda Hwvu Zkc.
+Shift 19: Ocz Lpdxf Wmjri Ajs Ephkn Jqzm Ocz Gvut Yjb.
+Shift 20: Nby Kocwe Vliqh Zir Dogjm Ipyl Nby Futs Xia.
+Shift 21: Max Jnbvd Ukhpg Yhq Cnfil Hoxk Max Etsr Whz.
+Shift 22: Lzw Imauc Tjgof Xgp Bmehk Gnwj Lzw Dsrq Vgy.
+Shift 23: Kyv Hlztb Sifne Wfo Aldgj Fmvi Kyv Crqp Ufx.
+Shift 24: Jxu Gkysa Rhemd Ven Zkcfi Eluh Jxu Bqpo Tew.
+Shift 25: Iwt Fjxrz Qgdlc Udm Yjbeh Dktg Iwt Apon Sdv.
+
+Caesar brute-force for 'mznxpz':
+1 lymwoy
+2 kxlvnx
+3 jwkumw
+4 ivjtlv
+5 huisku
+6 gthrjt
+7 fsgqis
+8 erfphr
+9 dqeogq
+10 cpdnfp
+11 bocmeo
+12 anbldn
+13 zmakcm
+14 ylzjbl
+15 xkyiak
+16 wjxhzj
+17 viwgyi
+18 uhvfxh
+19 tguewg
+20 sftdvf
+21 rescue
+22 qdrbtd
+23 pcqasc
+24 obpzrb
+25 naoyqa
+
+XOR Decrypted Text:
+This is the XOR challenge!
